@@ -9,7 +9,7 @@ func main() {
 	var numero int8 = 100
 	fmt.Println(numero)
 
-	//int32
+	//Alias de int
 	var numero2 rune = 100
 	fmt.Println(numero2)
 
